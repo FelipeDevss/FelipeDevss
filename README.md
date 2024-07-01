@@ -1,9 +1,3 @@
-👋 Olá eu sou @FelipeDevss
-🧑‍💻Analista De Sistemas.
-⏳Desenvolvedor de Software.🧑‍💻
-Atualmente estudando inglês
-👀 Meu sonho e um dia trabalhar com desenvolvimento machine learning
-
 <!-- Links -->
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-assun%C3%A7%C3%A3o-a70343184/)
@@ -19,7 +13,10 @@ Atualmente estudando inglês
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
-
+👋 Olá eu sou @FelipeDevss
+🧑‍💻Analista De Sistemas.
+⏳Desenvolvedor de Software.🧑‍💻
+👀 Meu sonho e um dia trabalhar com desenvolvimento machine learning
 <p align="left">Eu sou de São Paulo<br><br>- 🔭 Atualmente, estou estudando inglês e Java.<br>- 📚 Sou um estudante universitário em analise e desenvolvimento de sistemas em busca da minha primeira vaga de estágio.<br>- ⚡ Gosto de assistir filmes e séries.</p>
 
 ###
